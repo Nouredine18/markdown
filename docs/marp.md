@@ -1,7 +1,9 @@
 ---
 marp: true
-footer: Nouredine Tahrioui
-header: Presentation GIT
+footer:  '![width:100px](images/gotclone.png)'
+header: Nouredine Tahrioui
+
+
 ---
 
 
